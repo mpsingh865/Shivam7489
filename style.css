@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    text-align: center;
+    padding: 10px;
+    background-image:url('fav.png');
+}
+
+header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+section {
+    margin: 20px;
+}
+
+
+
+h1, h2 {
+    color: #333;
+}
+
+#bio, #work {
+    background-color: #1eee94;
+    padding: 15px;
+}
+
+footer {
+    background-color: #88f3ad;
+    text-align: center;
+    padding: 10px;
+}
